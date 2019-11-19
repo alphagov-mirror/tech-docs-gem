@@ -2,6 +2,13 @@
 
 ## Unreleased
 
+## 2.0.10
+
+Fix to stop the lines in `<code>` overlapping vertically when in a table cell. Effects browsers
+supporting the Monaco font.
+
+See [pull request #162: Increase line-height for <code> in <td>s](https://github.com/alphagov/tech-docs-gem/pull/162) for details.
+
 ## 2.0.9
 
 ### Fixes
